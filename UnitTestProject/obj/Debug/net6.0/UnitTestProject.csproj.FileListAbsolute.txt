@@ -1,0 +1,6 @@
+C:\Users\Suruchi.Singh\source\repos\TallyAssignment_5\UnitTestProject\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Suruchi.Singh\source\repos\TallyAssignment_5\UnitTestProject\obj\Debug\net6.0\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\Suruchi.Singh\source\repos\TallyAssignment_5\UnitTestProject\obj\Debug\net6.0\UnitTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suruchi.Singh\source\repos\TallyAssignment_5\UnitTestProject\obj\Debug\net6.0\UnitTestProject.AssemblyInfoInputs.cache
+C:\Users\Suruchi.Singh\source\repos\TallyAssignment_5\UnitTestProject\obj\Debug\net6.0\UnitTestProject.AssemblyInfo.cs
+C:\Users\Suruchi.Singh\source\repos\TallyAssignment_5\UnitTestProject\obj\Debug\net6.0\UnitTestProject.csproj.CoreCompileInputs.cache
